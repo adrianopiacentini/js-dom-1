@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    max-width:100%;
+}
+
+.container {
+    margin: 0 auto;
+    width:80%;
+    max-width:800px;
+}
+
+.center {
+    text-align:center;
+}
+
+button {
+    padding: 8px 12px;
+}
